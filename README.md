@@ -46,8 +46,8 @@ The practicals cover fundamental Python programming concepts, data structures, f
 | 17 | Python Program to Demonstrate the Concept of Inner Class |
 | 18 | Python Program to Demonstrate the Use of Methods |
 | 19 | Python Program to Demonstrate Various Types of Methods |
-| 20(A) | Python Program to Demonstrate Method Overloading by Adding Two and Three Numbers Using the Same Method Name |
-| 20(B) | Python Program to Demonstrate Method Overriding Using Parent Class `Animal` and Child Class `Dog` |
+| 20 | Python Program to Demonstrate Method Overloading by Adding Two and Three Numbers Using the Same Method Name |
+| 21 | Python Program to Demonstrate Method Overriding Using Parent Class `Animal` and Child Class `Dog` |
 
 ---
 
