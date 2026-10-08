@@ -51,6 +51,23 @@ The practicals cover fundamental Python programming concepts, data structures, f
 
 ---
 
+# Unit 3 - Inheritance, Exceptions, Modules, Files, and Regular Expressions
+
+| **Practical No.** | **Practical** |
+|---|---|
+| 22 | Python Program to Demonstrate Single Inheritance |
+| 23 | Python Program to Demonstrate Various Forms of Inheritance |
+| 24 | Python Program to Handle Division by Zero Using `try` and `except` |
+| 25 | Python Program to Use a `try`-`except`-`else` Block |
+| 26 | Python Program to Use a `try`-`except`-`else`-`finally` Block |
+| 27 | Python Programs to Demonstrate the Use of Modules |
+| 28 | Python Program to Demonstrate File Handling |
+| 29 | Python Program to Demonstrate Various File Modes |
+| 30 | Python Program to Demonstrate Regular Expression Searching |
+| 31 | Python Program to Demonstrate Regular Expressions |
+
+---
+
 ## Concepts Covered
 
 ### Unit 1
@@ -83,6 +100,14 @@ The practicals cover fundamental Python programming concepts, data structures, f
 - Method Overloading
 - Method Overriding
 - Object-Oriented Programming
+
+### Unit 3
+
+- Single and Multiple Inheritance
+- Exception Handling
+- Python Modules
+- File Handling and File Modes
+- Regular Expressions
 
 ---
 
