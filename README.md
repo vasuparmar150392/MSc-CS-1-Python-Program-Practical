@@ -4,7 +4,7 @@
 
 **Student Name:** Vasu Parmar  
 **Enrollment Number:** 92600565007  
-**Program:** MSc Cybersecurity
+**Program:** MSc Cyber Security And Cyber Law 
 
 ---
 
