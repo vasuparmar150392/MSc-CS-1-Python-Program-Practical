@@ -89,18 +89,18 @@ Programs are available in [Unit 4 Practical](Unit%204%20Practical/).
 
 # Unit 5 - Network and Security Practical Programs
 
-| **Practical No.** | **Practical** | **File** |
-|---|---|---|
-| 41 | Python Program to Perform WHOIS Lookup | [01.Python Program to Perform WHOIS Lookup.py](Unit%205%20Practical/01.Python%20Program%20to%20Perform%20WHOIS%20Lookup.py) |
-| 42 | Accept a Domain Name and Show Basic WHOIS Information | [02.Accept a Domain Name and Show Basic WHOIS Information.py](Unit%205%20Practical/02.Accept%20a%20Domain%20Name%20and%20Show%20Basic%20WHOIS%20Information.py) |
-| 43 | Display Domain Creation Date Using WHOIS | [03.Display Domain Creation Date Using WHOIS.py](Unit%205%20Practical/03.Display%20Domain%20Creation%20Date%20Using%20WHOIS.py) |
-| 44 | Display Domain Creation Date Using WHOIS | [04.Display Domain Creation Date Using WHOIS.py](Unit%205%20Practical/04.Display%20Domain%20Creation%20Date%20Using%20WHOIS.py) |
-| 45 | Use `dig` or `nslookup` to Find IP Address and Display DNS Records | [05.Use dig Command to Find IP Address and Display DNS Records.py](Unit%205%20Practical/05.Use%20dig%20Command%20to%20Find%20IP%20Address%20and%20Display%20DNS%20Records.py) |
-| 46 | Using Regular Expressions to Detect Email Addresses | [06.Using re – Detect Emails Using Regular Expressions.py](Unit%205%20Practical/06.Using%20re%20%E2%80%93%20Detect%20Emails%20Using%20Regular%20Expressions.py) |
-| 47 | Using Socket for a Simple Port Scanner | [07.Using Socket – Simple Port Scanner.py](Unit%205%20Practical/07.Using%20Socket%20%E2%80%93%20Simple%20Port%20Scanner.py) |
-| 48 | Generate Hash Values Using the `hashlib` Library | [08.Generate Hash Values Using hashlib Library.py](Unit%205%20Practical/08.Generate%20Hash%20Values%20Using%20hashlib%20Library.py) |
-| 49 | Using the `os` Library to Check Files in a Directory | [09.os Library – Check Files in a Directory.py](Unit%205%20Practical/09.os%20Library%20%E2%80%93%20Check%20Files%20in%20a%20Directory.py) |
-| 50 | Ping Scanner - Shows IP Up or Down | [10.for Ping Scanner – Shows IP Up or Down.py](Unit%205%20Practical/10.for%20Ping%20Scanner%20%E2%80%93%20Shows%20IP%20Up%20or%20Down.py) |
+| **Practical No.** | **Practical** |
+|---|---|
+| 41 | Python Program to Perform WHOIS Lookup |
+| 42 | Accept a Domain Name and Show Basic WHOIS Information |
+| 43 | Display Domain Creation Date Using WHOIS |
+| 44 | Display Domain Creation Date Using WHOIS |
+| 45 | Use `dig` or `nslookup` to Find IP Address and Display DNS Records |
+| 46 | Using Regular Expressions to Detect Email Addresses |
+| 47 | Using Socket for a Simple Port Scanner |
+| 48 | Generate Hash Values Using the `hashlib` Library |
+| 49 | Using the `os` Library to Check Files in a Directory |
+| 50 | Ping Scanner - Shows IP Up or Down |
 
 ---
 
@@ -166,16 +166,16 @@ Programs are available in [Unit 4 Practical](Unit%204%20Practical/).
 
 # Content Beyond Syllabus Practicals
 
-| **Practical No.** | **Practical** | **File** |
-|---|---|---|
-| 51 | Random Password Generator | [P51-Random_Password.py](Content%20Beyond%20Syllabus%20Practicals/P51-Random_Password.py) |
-| 52 | One-Time Password (OTP) Generation | [P52-OTP_Generation.py](Content%20Beyond%20Syllabus%20Practicals/P52-OTP_Generation.py) |
-| 53 | Base64 Encoding and Decoding | [P53-base64_encode_decode.py](Content%20Beyond%20Syllabus%20Practicals/P53-base64_encode_decode.py) |
-| 54 | Identify Suspicious URLs | [P54-Suspicious_URLs.py](Content%20Beyond%20Syllabus%20Practicals/P54-Suspicious_URLs.py) |
-| 55 | Identify Potentially Risky File Extensions | [P55-File_Extensions.py](Content%20Beyond%20Syllabus%20Practicals/P55-File_Extensions.py) |
-| 56 | Count Failed Login Attempts | [P56-Failed_login_attempts.py](Content%20Beyond%20Syllabus%20Practicals/P56-Failed_login_attempts.py) |
-| 57 | Compare Two Files | [P57-compare_two_files.py](Content%20Beyond%20Syllabus%20Practicals/P57-compare_two_files.py) |
-| 58 | Identify Private and Public IP Addresses | [P58-private_public_IP.py](Content%20Beyond%20Syllabus%20Practicals/P58-private_public_IP.py) |
+| **Practical No.** | **Practical** |
+|---|---|
+| 51 | Random Password Generator |
+| 52 | One-Time Password (OTP) Generation |
+| 53 | Base64 Encoding and Decoding |
+| 54 | Identify Suspicious URLs |
+| 55 | Identify Potentially Risky File Extensions |
+| 56 | Count Failed Login Attempts |
+| 57 | Compare Two Files |
+| 58 | Identify Private and Public IP Addresses |
 
 See [Content Beyond Syllabus Practicals](Content%20Beyond%20Syllabus%20Practicals/) for the dedicated folder and README.
 
@@ -207,8 +207,3 @@ git clone https://github.com/vasuparmar150392/MSc-CS-1-Python-Program-Practical.
 cd MSc-CS-1-Python-Program-Practical
 ```
 
-Run a Unit 5 program:
-
-```bash
-python "Unit 5 Practical/01.Python Program to Perform WHOIS Lookup.py"
-```
