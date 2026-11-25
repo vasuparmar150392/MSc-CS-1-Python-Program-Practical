@@ -164,6 +164,21 @@ Programs are available in [Unit 4 Practical](Unit%204%20Practical/).
 - Directory File Listings
 - Network Ping Scanning
 
+# Content Beyond Syllabus Practicals
+
+| **Practical No.** | **Practical** | **File** |
+|---|---|---|
+| 51 | Random Password Generator | [P51-Random_Password.py](Content%20Beyond%20Syllabus%20Practicals/P51-Random_Password.py) |
+| 52 | One-Time Password (OTP) Generation | [P52-OTP_Generation.py](Content%20Beyond%20Syllabus%20Practicals/P52-OTP_Generation.py) |
+| 53 | Base64 Encoding and Decoding | [P53-base64_encode_decode.py](Content%20Beyond%20Syllabus%20Practicals/P53-base64_encode_decode.py) |
+| 54 | Identify Suspicious URLs | [P54-Suspicious_URLs.py](Content%20Beyond%20Syllabus%20Practicals/P54-Suspicious_URLs.py) |
+| 55 | Identify Potentially Risky File Extensions | [P55-File_Extensions.py](Content%20Beyond%20Syllabus%20Practicals/P55-File_Extensions.py) |
+| 56 | Count Failed Login Attempts | [P56-Failed_login_attempts.py](Content%20Beyond%20Syllabus%20Practicals/P56-Failed_login_attempts.py) |
+| 57 | Compare Two Files | [P57-compare_two_files.py](Content%20Beyond%20Syllabus%20Practicals/P57-compare_two_files.py) |
+| 58 | Identify Private and Public IP Addresses | [P58-private_public_IP.py](Content%20Beyond%20Syllabus%20Practicals/P58-private_public_IP.py) |
+
+See [Content Beyond Syllabus Practicals](Content%20Beyond%20Syllabus%20Practicals/) for the dedicated folder and README.
+
 ---
 
 ## Requirements
