@@ -1,0 +1,33 @@
+# Unit 5 - Network and Security Practical Programs
+
+**Student Name:** Vasu Parmar  
+**Enrollment Number:** 92600565007
+
+| Practical No. | Practical | File |
+|---|---|---|
+| 41 | Python Program to Perform WHOIS Lookup | [01.Python Program to Perform WHOIS Lookup.py](01.Python%20Program%20to%20Perform%20WHOIS%20Lookup.py) |
+| 42 | Accept a Domain Name and Show Basic WHOIS Information | [02.Accept a Domain Name and Show Basic WHOIS Information.py](02.Accept%20a%20Domain%20Name%20and%20Show%20Basic%20WHOIS%20Information.py) |
+| 43 | Display Domain Registrar Using WHOIS | [03.Display Domain Creation Date Using WHOIS.py](03.Display%20Domain%20Creation%20Date%20Using%20WHOIS.py) |
+| 44 | Display Domain Creation Date Using WHOIS | [04.Display Domain Creation Date Using WHOIS.py](04.Display%20Domain%20Creation%20Date%20Using%20WHOIS.py) |
+| 45 | Use `dig` or `nslookup` to Find IP Address and Display DNS Records | [05.Use dig Command to Find IP Address and Display DNS Records.py](05.Use%20dig%20Command%20to%20Find%20IP%20Address%20and%20Display%20DNS%20Records.py) |
+| 46 | Using Regular Expressions to Detect Email Addresses | [06.Using re – Detect Emails Using Regular Expressions.py](06.Using%20re%20%E2%80%93%20Detect%20Emails%20Using%20Regular%20Expressions.py) |
+| 47 | Using Socket for a Simple Port Scanner | [07.Using Socket – Simple Port Scanner.py](07.Using%20Socket%20%E2%80%93%20Simple%20Port%20Scanner.py) |
+| 48 | Generate Hash Values Using the `hashlib` Library | [08.Generate Hash Values Using hashlib Library.py](08.Generate%20Hash%20Values%20Using%20hashlib%20Library.py) |
+| 49 | Using the `os` Library to Check Files in a Directory | [09.os Library – Check Files in a Directory.py](09.os%20Library%20%E2%80%93%20Check%20Files%20in%20a%20Directory.py) |
+| 50 | Ping Scanner - Shows IP Up or Down | [10.for Ping Scanner – Shows IP Up or Down.py](10.for%20Ping%20Scanner%20%E2%80%93%20Shows%20IP%20Up%20or%20Down.py) |
+
+## Requirements
+
+- Python 3.x
+- The WHOIS programs require `python-whois`
+- The DNS program uses `dig` when available and falls back to `nslookup`
+
+```bash
+pip install python-whois
+```
+
+## Running a Program
+
+```bash
+python "01.Python Program to Perform WHOIS Lookup.py"
+```
